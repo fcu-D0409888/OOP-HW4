@@ -22,11 +22,8 @@ public class Main {
 			}
 			
 			string2 = password.encoder(string1);
-			System.out.printf("%s%n",string2);
-					
+			System.out.printf("%s%n",string2);	
 		}
-		
-		
 		keyboard.close();
 	}
 }
